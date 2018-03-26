@@ -2,28 +2,17 @@
 
 ### Day 0: March 25, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:  Started learning Graph data structure, watched some videos from UC Berkeley and CommonLounge videos about graphs
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I started learning graph data structure and the usecases.
+                        I checked some real life examples of networks, web browsers etc, where grapha are being used
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:* http://www.infocobuild.com/education/audio-video-courses/computer-science/CS61B-Fall2006-Berkeley/lecture-28.html
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 0: March 25, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Implemented graph data structure and basic operations like adding edges from scratch in Java
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: The data structure seem to be a bit complicated and needs more learning and in depth undrstanding. Working on implementing and solving some problems may help in achieving the same.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: https://docs.google.com/document/d/19qzCAQHxipBTnyh8kqz_RZxOs97h0qUDlbUoeOftioA/edit
