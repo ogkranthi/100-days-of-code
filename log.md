@@ -16,3 +16,12 @@
 **Thoughts**: The data structure seem to be a bit complicated and needs more learning and in depth undrstanding. Working on implementing and solving some problems may help in achieving the same.
 
 **Link(s) to work**: https://docs.google.com/document/d/19qzCAQHxipBTnyh8kqz_RZxOs97h0qUDlbUoeOftioA/edit
+
+### Day 1: March 26, 2018
+
+**Today's Progress**:  Implemented BFS and DFS using Java
+
+**Thoughts:** Seems like there are a lot of applications for BFS and DFS2018
+                        Now I am confident about coding them. I feel, I can code them with out wasting a lot of time
+
+**Link to work:* Uploaded to CTCI branch on github
