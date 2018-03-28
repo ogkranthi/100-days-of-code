@@ -25,3 +25,11 @@
                         Now I am confident about coding them. I feel, I can code them with out wasting a lot of time
 
 **Link to work:* Uploaded to CTCI branch on github
+
+### Day 2: March 27, 2018
+
+**Today's Progress**:  Implemented Graph data structure using using adjacentMatrix and learned garbage collection in java
+
+**Thoughts:** : I should start early to make sure I code enough in the day. I will start working in the morning, so that I can code before I sleep
+
+**Link to work:* Uploaded to CTCI branch on github
