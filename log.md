@@ -33,3 +33,11 @@
 **Thoughts:** : I should start early to make sure I code enough in the day. I will start working in the morning, so that I can code before I sleep
 
 **Link to work:* Uploaded to CTCI branch on github
+
+### Day 3: March 28, 2018
+
+**Today's Progress**:  Implemented Graph data structure using using disjoint sets
+
+**Thoughts:** : I could not code much, as I did not want to do it in hurry. To prevent it, I should start early and complete before anything important in the day.
+
+**Link to work:* Uploaded to CTCI branch on github
