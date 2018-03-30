@@ -41,3 +41,11 @@
 **Thoughts:** : I could not code much, as I did not want to do it in hurry. To prevent it, I should start early and complete before anything important in the day.
 
 **Link to work:* Uploaded to CTCI branch on github
+
+### Day 4: March 29, 2018
+
+**Today's Progress**:  Implemented cycle detection algorithm using DFS and dosjoint sets implementation
+
+**Thoughts:** : I could not code much, as I went out and did other things, which are not so important. I should have completed the coding before I left out.
+
+**Link to work:* Uploaded to CTCI branch on github
