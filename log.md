@@ -49,3 +49,9 @@
 **Thoughts:** : I could not code much, as I went out and did other things, which are not so important. I should have completed the coding before I left out.
 
 **Link to work:* Uploaded to CTCI branch on github
+
+### Day 5: March 30, 2018
+
+**Today's Progress**:  Studied Socket.io and chat application building, could not code much
+
+**Thoughts:** : There are many things that come up like travelling, etc and I should find a way of working around such situations to complete the code.
