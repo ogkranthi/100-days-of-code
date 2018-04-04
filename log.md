@@ -55,3 +55,9 @@
 **Today's Progress**:  Studied Socket.io and chat application building, could not code much
 
 **Thoughts:** : There are many things that come up like travelling, etc and I should find a way of working around such situations to complete the code.
+
+### Day 6,7,8,9: March 31,April 1,2,3 2018
+
+**Today's Progress**:  Studied graph algorithms, GIT and ANgularjs interview questions
+
+**Thoughts:** :Need to work more on data structures and algorithms
