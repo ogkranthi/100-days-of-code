@@ -61,3 +61,9 @@
 **Today's Progress**:  Studied graph algorithms, GIT and ANgularjs interview questions
 
 **Thoughts:** :Need to work more on data structures and algorithms
+
+### Day 10,11: April 4,5 2018
+
+**Today's Progress**: Studied for interview: Angularjs and some front end interview questions
+
+**Thoughts:** : I need to focus on coding and start competetive coding everyday
