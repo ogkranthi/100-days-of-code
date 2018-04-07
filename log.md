@@ -67,3 +67,9 @@
 **Today's Progress**: Studied for interview: Angularjs and some front end interview questions
 
 **Thoughts:** : I need to focus on coding and start competetive coding everyday
+
+### Day 12: April 6 2018
+
+**Today's Progress**: Watched videos of trees and traversals from CS61B
+
+**Thoughts:** : I will code them tomorrow
