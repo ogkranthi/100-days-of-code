@@ -73,3 +73,9 @@
 **Today's Progress**: Watched videos of trees and traversals from CS61B
 
 **Thoughts:** : I will code them tomorrow
+
+### Day 13,14: April 7,8 2018
+
+**Today's Progress**: Coded tree traversals and started prep for full time interviews
+
+**Thoughts:** : Need to spend allocated time and start working on the interview problems everyday
