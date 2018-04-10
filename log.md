@@ -79,3 +79,9 @@
 **Today's Progress**: Coded tree traversals and started prep for full time interviews
 
 **Thoughts:** : Need to spend allocated time and start working on the interview problems everyday
+
+### Day 15: April 9 2018
+
+**Today's Progress**: Learnt height of the tree and maximum difference in a tree using inorder traversal
+
+**Thoughts:** : Will need to finish the coding before anything else for the day.
