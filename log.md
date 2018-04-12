@@ -85,3 +85,9 @@
 **Today's Progress**: Learnt height of the tree and maximum difference in a tree using inorder traversal
 
 **Thoughts:** : Will need to finish the coding before anything else for the day.
+
+### Day 16,17: April 10,11 2018
+
+**Today's Progress**: Started reading Trees and Oracle cloud computing
+
+**Thoughts:** : Will need to finish the coding before anything else for the day.
